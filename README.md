@@ -1,4 +1,4 @@
-# LMS Frontend
+# PlanWise Project
 
 ### Setup Instructions Steps
 
